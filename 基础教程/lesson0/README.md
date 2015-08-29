@@ -27,3 +27,23 @@ jQuery("#id").这样就避免了与原生prototype.js的冲突。
 
 一个非常标准的LAMP项目.
 
+### 目录结构
+```
+app 系统文件
+   app/code php代码存放目录(包括各种插件和核心代码)
+      app/code/community 从社区下载的插件存放目录
+      app/code/core 系统核心代码(最好不要改动,改了的话,如果升级版本就会被覆盖)
+      app/code/local 自己写的插件存放目录(默认是没有这个目录的,如果自己开发插件的话就得新建一个local目录)
+   app/design 模板存放目录(前后台)
+   app/etc 系统配置目录
+   app/locale 多语言存放目录
+
+errors 错误配置
+js  存放js的目录
+lib 核心库(主要是zend studio的一些东西)
+media 放图片的目录
+shell  脚本目录(主要是cron执行的一些脚本)
+skin 前后台主题的css/js/images存放目录
+var 缓存目录(主要是cache和session)
+```
+
