@@ -123,6 +123,11 @@ b2b:
 </VirtualHost>
 
 ```
+重启apache
+```
+ubuntun下:
+sudo service apache2 restart
+```
 
 四:访问域名,看是否能打开
 
