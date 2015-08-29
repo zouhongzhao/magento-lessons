@@ -125,7 +125,7 @@ b2b:
 ```
 重启apache
 ```
-ubuntun下:
+ubuntu下:
 sudo service apache2 restart
 ```
 
