@@ -1,5 +1,4 @@
 # <<搭建magento项目>>
-# <<搭建magento项目>>
 
 安装过程特别简单。因为我的系统是MAC,搭建环境的工具是MAMP,所以本地配置清单如下:
 
@@ -35,24 +34,24 @@ mac里用的是Sequel Pro
 ### 浏览器访问 http://demo.hongzhao.com
 按照提示来安装
 
-![](https://github.com/zouhongzhao/magento-lessons/tree/master/lesson1/install-1.png)
+![](https://github.com/zouhongzhao/magento-lessons/tree/master/基础教程/lesson1/install-1.png)
 
-![](https://github.com/zouhongzhao/magento-lessons/tree/master/lesson1/install-2.png)
+![](https://github.com/zouhongzhao/magento-lessons/tree/master/基础教程/lesson1/install-2.png)
 
 耐心的等待几分钟...
 
-![](https://github.com/zouhongzhao/magento-lessons/tree/master/lesson1/install-3.png)
+![](https://github.com/zouhongzhao/magento-lessons/tree/master/基础教程/lesson1/install-3.png)
 
 安装完成后,会提示输入个人信息和后台用户名密码
 
-![](https://github.com/zouhongzhao/magento-lessons/tree/master/lesson1/install-4.png)
+![](https://github.com/zouhongzhao/magento-lessons/tree/master/基础教程/lesson1/install-4.png)
 
 提交后,就可以进入前台(http://demo.hongzhao.com/)和后台(http://demo.hongzhao.com/index.php/admin)了。
 
-![](https://github.com/zouhongzhao/magento-lessons/tree/master/lesson1/install-5.png)
+![](https://github.com/zouhongzhao/magento-lessons/tree/master/基础教程/lesson1/install-5.png)
 
-![](https://github.com/zouhongzhao/magento-lessons/tree/master/lesson1/install-6.png)
+![](https://github.com/zouhongzhao/magento-lessons/tree/master/基础教程/lesson1/install-6.png)
 
 默认前台页面:
-![](https://github.com/zouhongzhao/magento-lessons/tree/master/lesson1/install-7.png)
+![](https://github.com/zouhongzhao/magento-lessons/tree/master/基础教程/lesson1/install-7.png)
 到此,一个伟大的购物车系统就搭建完毕了。
