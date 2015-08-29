@@ -1,4 +1,4 @@
-#<<用zend mail发送邮件>>
+# <<用zend mail发送邮件>>
 
 ```
 $to_email = 'dev@fenzsoft.com';

@@ -1,4 +1,4 @@
-#<<magento如何使用ftp上传下载>>
+# <<magento如何使用ftp上传下载>>
 
 magento自带有ftp以及sftp类,直接调用即可,不需要另外写类。
 

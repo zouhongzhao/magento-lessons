@@ -1,4 +1,5 @@
-#<<magento批量插入多行数据>>
+# <<magento批量插入多行数据>>
+
 ```
 $table = Mage::getSingleton('core/resource')->getTableName('table_name');
 $rows = array(

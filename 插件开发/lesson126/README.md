@@ -1,4 +1,4 @@
-#<<如何跳转到admin category的编辑页面(指定category id)>>
+# <<如何跳转到admin category的编辑页面(指定category id)>>
 
 因为后台编辑某一个分类是通过点击后ajax生成的,url地址上没有category id。 默认为这种
 

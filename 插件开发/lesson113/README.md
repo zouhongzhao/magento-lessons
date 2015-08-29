@@ -1,4 +1,4 @@
-#<<adminhtml里的ajax用法>>
+# <<adminhtml里的ajax用法>>
 
 使用jquery写magento adminhtml的ajax post时,
 
