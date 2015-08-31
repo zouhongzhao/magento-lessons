@@ -20,8 +20,11 @@
 新手搭建 Magento 云主机，推荐使用无需备案的 [Bluehost(https://www.bluehost.com)](https://www.bluehost.com) 或 [DigitalOcean(https://www.digitalocean.com/)](https://www.digitalocean.com/?refcode=59a08293127f)
 
 ## 课程列表
+
 主要分为3部分:
+
 #基础教程
+
 * Lesson 0: [《Magento是什么》](https://github.com/zouhongzhao/magento-lessons/tree/master/基础教程/lesson0)
 * Lesson 1: [《搭建 Magento项目》](https://github.com/zouhongzhao/magento-lessons/tree/master/基础教程/lesson1)
 * Lesson 2: [《什么是属性》](https://github.com/zouhongzhao/magento-lessons/tree/master/基础教程/lesson2)
@@ -49,7 +52,10 @@
 * Lesson 24: [《如何配置多网站(website)域名》](https://github.com/zouhongzhao/magento-lessons/tree/master/基础教程/lesson24)
 * Lesson 25: [《magento默认的成功/错误展示信息》](https://github.com/zouhongzhao/magento-lessons/tree/master/基础教程/lesson25)
 * Lesson 26: [《如何设置主题》](https://github.com/zouhongzhao/magento-lessons/tree/master/基础教程/lesson26)
+
+
 #插件开发
+
 * Lesson 100: [《一个最基本的插件》](https://github.com/zouhongzhao/magento-lessons/tree/master/插件开发/lesson100)
 * Lesson 101: [《开启开发者模式》](https://github.com/zouhongzhao/magento-lessons/tree/master/插件开发/lesson101)
 * Lesson 102: [《重写block》](https://github.com/zouhongzhao/magento-lessons/tree/master/插件开发/lesson102)
@@ -81,7 +87,9 @@
 * Lesson 128: [《关于插件安装后没反应的解决方法》](https://github.com/zouhongzhao/magento-lessons/tree/master/插件开发/lesson128)
 * Lesson 129: [《magento插件打包工具》](https://github.com/zouhongzhao/magento-lessons/tree/master/插件开发/lesson129)
 * Lesson 130: [《magento插件打包工具》](https://github.com/zouhongzhao/magento-lessons/tree/master/插件开发/lesson130)
+
 #网站维护
+
 * Lesson 200: [《开启维护模式》](https://github.com/zouhongzhao/magento-lessons/tree/master/网站维护/lesson200)
 * Lesson 201: [《网站搬家》](https://github.com/zouhongzhao/magento-lessons/tree/master/网站维护/lesson201)
 * Lesson 202: [《页面乱了》](https://github.com/zouhongzhao/magento-lessons/tree/master/网站维护/lesson202)
@@ -91,7 +99,9 @@
 * Lesson 206: [《一键清理所有的category/product/customer/order》](https://github.com/zouhongzhao/magento-lessons/tree/master/网站维护/lesson206)
 * Lesson 207: [《局部Block缓存》](https://github.com/zouhongzhao/magento-lessons/tree/master/网站维护/lesson207)
 
+
 #代码优化
+
 * Lesson 300: [《秘籍》](https://github.com/zouhongzhao/magento-lessons/tree/master/网站维护/lesson300)
 
 ##计划
