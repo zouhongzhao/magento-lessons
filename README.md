@@ -86,7 +86,7 @@
 * Lesson 127: [《magento批量插入多行数据》](https://github.com/zouhongzhao/magento-lessons/tree/master/插件开发/lesson127)
 * Lesson 128: [《关于插件安装后没反应的解决方法》](https://github.com/zouhongzhao/magento-lessons/tree/master/插件开发/lesson128)
 * Lesson 129: [《magento插件打包工具》](https://github.com/zouhongzhao/magento-lessons/tree/master/插件开发/lesson129)
-* Lesson 130: [《magento插件打包工具》](https://github.com/zouhongzhao/magento-lessons/tree/master/插件开发/lesson130)
+* Lesson 130: [《把atttibute从dropdown类型改成multiselect类型》](https://github.com/zouhongzhao/magento-lessons/tree/master/插件开发/lesson130)
 
 #网站维护
 
