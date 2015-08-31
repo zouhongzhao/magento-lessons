@@ -3,8 +3,13 @@
 magento自带有ftp以及sftp类,直接调用即可,不需要另外写类。
 
 ```
+ftp: 根目录/lib/Varien/Io/Ftp.php
+sftp: 跟目录/lib/Varien/Io/Sftp.php
+```
+
+```
 <?php
-class Iggo_Mbosa_Model_Cron_Ftp extends Iggo_Mbosa_Model_Cron {
+class Zou_Test_Model_Cron_Ftp {
 	public $_ftp=null;
 	public function getFtp(){
 //先初始化ftp
@@ -13,10 +18,10 @@ class Iggo_Mbosa_Model_Cron_Ftp extends Iggo_Mbosa_Model_Cron {
 				$this->_ftp = new Varien_Io_Ftp();
 				$this->_ftp->open(
 						array(
-								'host'      => Mage::getStoreConfig('mbosa/autofutur/ftp_host'),
-								'user'  => Mage::getStoreConfig('mbosa/autofutur/ftp_username'),
-								'password'  => Mage::getStoreConfig('mbosa/autofutur/ftp_password'),
-								'port'  => Mage::getStoreConfig('mbosa/autofutur/ftp_port'),
+								'host'      => '127.0.0.1',
+								'user'  => 'test',
+								'password'  => '123456',
+								'port'  => '22',
 								'passive' => true
 						)
 				);

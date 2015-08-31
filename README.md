@@ -48,7 +48,7 @@
 * Lesson 23: [《如何禁用插件》](https://github.com/zouhongzhao/magento-lessons/tree/master/基础教程/lesson23)
 * Lesson 24: [《如何配置多网站(website)域名》](https://github.com/zouhongzhao/magento-lessons/tree/master/基础教程/lesson24)
 * Lesson 25: [《magento默认的成功/错误展示信息》](https://github.com/zouhongzhao/magento-lessons/tree/master/基础教程/lesson25)
-
+* Lesson 26: [《如何设置主题》](https://github.com/zouhongzhao/magento-lessons/tree/master/基础教程/lesson26)
 #插件开发
 * Lesson 100: [《一个最基本的插件》](https://github.com/zouhongzhao/magento-lessons/tree/master/插件开发/lesson100)
 * Lesson 101: [《开启开发者模式》](https://github.com/zouhongzhao/magento-lessons/tree/master/插件开发/lesson101)
@@ -80,7 +80,7 @@
 * Lesson 127: [《magento批量插入多行数据》](https://github.com/zouhongzhao/magento-lessons/tree/master/插件开发/lesson127)
 * Lesson 128: [《关于插件安装后没反应的解决方法》](https://github.com/zouhongzhao/magento-lessons/tree/master/插件开发/lesson128)
 * Lesson 129: [《magento插件打包工具》](https://github.com/zouhongzhao/magento-lessons/tree/master/插件开发/lesson129)
-
+* Lesson 130: [《magento插件打包工具》](https://github.com/zouhongzhao/magento-lessons/tree/master/插件开发/lesson130)
 #网站维护
 * Lesson 200: [《开启维护模式》](https://github.com/zouhongzhao/magento-lessons/tree/master/网站维护/lesson200)
 * Lesson 201: [《网站搬家》](https://github.com/zouhongzhao/magento-lessons/tree/master/网站维护/lesson201)

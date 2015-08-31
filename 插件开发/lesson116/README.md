@@ -1,13 +1,15 @@
 # <<用zend mail发送邮件>>
 
+因为magento是基于zendstudio的,所有我们就可以很方便的利用zend mail来发送邮件或者附件
+
 ```
 $to_email = 'dev@fenzsoft.com';
 		$to_name = 'Sisustalasilla';
 		$subject = 'Packagedshipping rules Repeat';
 		$Body= "Results: " . print_r( $weightStartArray, true );
 		 
-		$sender_email = "sisustalasilla@iggo.com";
-		$sender_name = "sisustalasilla";
+		$sender_email = "demo@hongzhao.com";
+		$sender_name = "demo name";
 		 
 		$mail = new Zend_Mail('UTF-8');
 		$mail->setBodyHtml($Body); //for sending message containing html code
