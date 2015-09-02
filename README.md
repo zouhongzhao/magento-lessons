@@ -87,6 +87,7 @@
 * Lesson 128: [《关于插件安装后没反应的解决方法》](https://github.com/zouhongzhao/magento-lessons/tree/master/插件开发/lesson128)
 * Lesson 129: [《magento插件打包工具》](https://github.com/zouhongzhao/magento-lessons/tree/master/插件开发/lesson129)
 * Lesson 130: [《把atttibute从dropdown类型改成multiselect类型》](https://github.com/zouhongzhao/magento-lessons/tree/master/插件开发/lesson130)
+* Lesson 131: [《如何在layout中对addJs/addCss加载的文件排序》](https://github.com/zouhongzhao/magento-lessons/tree/master/插件开发/lesson131)
 
 #网站维护
 
