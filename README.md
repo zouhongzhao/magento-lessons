@@ -17,6 +17,8 @@
 
 个人QQ：529894459
 
+QQ群: 220619440
+
 新手搭建 Magento 云主机，推荐使用无需备案的 [Bluehost(https://www.bluehost.com)](https://www.bluehost.com) 或 [DigitalOcean(https://www.digitalocean.com/)](https://www.digitalocean.com/?refcode=59a08293127f)
 
 ## 课程列表
